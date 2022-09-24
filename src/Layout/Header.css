@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.header{
+    display: flex;
+    background-color: bisque;
+    padding-bottom: 10px;
+}
+.header p{
+    margin: auto;
+}

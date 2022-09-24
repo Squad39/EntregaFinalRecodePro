@@ -1,0 +1,8 @@
+.footer{
+    display: flex;
+    list-style: none;
+    background-color: bisque;
+}
+.footer li{
+    margin: auto;
+}
