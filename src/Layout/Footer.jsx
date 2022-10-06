@@ -4,9 +4,12 @@ import './Footer.css';
 export default()=>{
     return(
         <ul className='footer'>
-            <li><Link>Linkedin</Link></li>
-            <li><Link>Github</Link></li>
-            <li><Link>Criadores</Link></li>
+            <img src="/imagens/alphaRural.png" alt="" srcset="" />
+            <div>
+                <h1>Squad 39</h1>
+                <p>Educação para todos</p>
+            </div>
+            <img src="/imagens/recode.gif" alt="" srcset="" />
         </ul>
     )
 }

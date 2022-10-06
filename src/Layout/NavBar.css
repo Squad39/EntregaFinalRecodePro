@@ -1,10 +1,19 @@
 .Navbar{
     display: flex;
     list-style: none;
-    
+    height:60px;
+    background-color: rgb(19, 197, 19);
 }
-
+.Navbar ul{
+    list-style: none;
+    text-decoration: none;
+}
 .Navbar li{
     margin: auto;
-    margin-top: 5px;
+    margin-left: 0;
+}
+@media (max-width: 500px){
+    .Navbar li{
+        font-size: 12px;
+    }
 }

@@ -1,8 +1,9 @@
 .footer{
     display: flex;
-    list-style: none;
     background-color: bisque;
+    padding: 10px;
 }
-.footer li{
+.footer img{
     margin: auto;
+    width: 60px;
 }
