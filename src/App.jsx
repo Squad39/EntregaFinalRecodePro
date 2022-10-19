@@ -1,5 +1,6 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import Itens from './Layout/NavBar'
+import Itens from './Layout/NavBar';
+import './App.css';
 
 import Home from './paginas/Home';
 import Nos from './paginas/Nos';
