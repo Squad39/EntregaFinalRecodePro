@@ -1,12 +1,12 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import Itens from './Layout/NavBar';
+import Navbar from './Layout/NavBar';
 import './App.css';
 
-import Home from './paginas/Home';
-import Nos from './paginas/Nos';
-import Proposito from './paginas/Proposito';
-import Voluntario from './paginas/Voluntarios';
-import Apoiar from './paginas/Apoiadores';
+import Home from './page/Home';
+import Nos from './page/Nos';
+import Proposito from './page/Proposito';
+import Voluntario from './page/Voluntarios';
+import Apoiar from './page/Apoiadores';
 import Footer from './Layout/Footer';
 import Header from './Layout/Header';
 
@@ -16,7 +16,7 @@ export default()=>{
         /* E cada elemento dentro de seu proximo route, sua rota */
         <Router>
             <Header/>
-            <Itens/>
+            <Navbar/>
             <Routes>
                 <Route path='/' element={<Home/>}/>
                 <Route path='/Nos' element={<Nos/>}/>
