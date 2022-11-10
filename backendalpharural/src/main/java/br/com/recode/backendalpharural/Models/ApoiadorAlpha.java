@@ -27,6 +27,8 @@ public class ApoiadorAlpha {
 
     private int telefone;
 
-    private Date
+    private Date dataNascimento;
+
+    private String descricaoPessoal;
     
 }
