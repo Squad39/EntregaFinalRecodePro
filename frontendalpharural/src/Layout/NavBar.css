@@ -2,15 +2,18 @@
     display: flex;
     list-style: none;
     height:60px;
-    background-color: rgb(19, 197, 19);
+    background-image: linear-gradient(to left, rgb(59, 205, 210), rgb(17, 55, 130));
     margin: 0;
 }
 .Navbar ul{
     list-style: none;
+    color: black;
 }
 .Navbar li{
     margin: auto;
-    margin-left: 0;
+    font-family: 'Narrow';
+    font-weight: bolder;
+    padding: 0 2%;
 }
 @media (max-width: 500px){
     .Navbar li{
