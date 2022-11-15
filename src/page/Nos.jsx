@@ -10,9 +10,6 @@ export default ()=>{
             <p>   
                 Nessa visão, queremos contribuir para que todos os jovens e adultos sejam alfabetizados e tenham conhecimento básico em ciências linguísticas, ciências tecnológicas e todas as áreas da educação nas regiões rurais e mais afastadas, impactando a sociedade da região como um todo.
             </p>
-            <p>   
-                Nessa visão, queremos contribuir para que todos os jovens e adultos sejam alfabetizados e tenham conhecimento básico em ciências linguísticas, ciências tecnológicas e todas as áreas da educação nas regiões rurais e mais afastadas, impactando a sociedade da região como um todo.
-            </p>
             
         </section>
     )
