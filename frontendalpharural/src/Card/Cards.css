@@ -3,3 +3,9 @@
     margin: 2% 10%;
     justify-content: space-between;
 }
+
+.Cards Card{ 
+    box-shadow: 1px 10px 10px 0px;
+    border-radius: 60px;
+    margin-bottom: 20px;
+}
