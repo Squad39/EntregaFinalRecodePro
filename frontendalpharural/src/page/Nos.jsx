@@ -1,6 +1,6 @@
 export default ()=>{
     return(
-        <section className="" style={{padding: '30px 100px', fontSize: '22px', textAlign: 'justify', fontWeight: '500'}}>
+        <section className="" style={{padding: '30px 100px', fontSize: '1.5em', textAlign: 'justify', fontWeight: '500', textIndent: '5%', margin: '20px'}}>
             <p>
                 Somos jovens que desejam transformar a realidade de pessoas menos favorecidas. O projeto foi desenvolvido visando tornar o mundo um lugar melhor. Jovens que entendem que a educação, é a porta para toda e qualquer realização pessoal. Entendemos que a educação pode mudar tudo ao redor e proporcinar soluções ambientais, sociais, culturais, tecnológicas e financeiras.
             </p>
