@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# projetoSiteEntregaRecode_react
+Desenvolvendo Projeto Recode através da ferramenta React, consumindo uma API em Java, utilizando o ecossystem Spring Boot
+
+Versão final da solução Alpha Rural atrelada a ODS4, RecodePro = ( import React {css, html} /Projeto criado com Vite/ Java Spring & Autentificação de Login{Securit} => {
+
+}
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
