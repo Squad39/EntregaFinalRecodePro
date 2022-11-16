@@ -1,9 +1,13 @@
 .footer{
     display: flex;
-    background-color: bisque;
-    padding: 10px;
+    background-color: rgb(17, 55, 130);
+    padding: 10px 0;
+    color: antiquewhite;
 }
-.footer img{
+
+.footer h5{
     margin: auto;
-    width: 80px;
+}
+.footer h5 a{
+    text-decoration: none;
 }

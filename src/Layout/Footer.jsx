@@ -3,13 +3,8 @@ import { Link } from 'react-router-dom';
 import './Footer.css';
 export default()=>{
     return(
-        <ul className='footer'>
-            <img src="/imagens/alphaRural.png" alt="" srcset="" />
-            <div>
-                <h1>Squad 39</h1>
-                <p>Educação para todos</p>
-            </div>
-            <img src="/imagens/recode.gif" alt="" srcset="" />
-        </ul>
+        <footer className='footer'>
+            <h5>Site desenvolvido por <a href="https://www.linkedin.com/in/squad-recode-512152240/">Equipe39</a></h5>
+        </footer>
     )
 }

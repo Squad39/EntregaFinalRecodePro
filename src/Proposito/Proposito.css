@@ -1,0 +1,22 @@
+.descricao{
+    text-align: center;
+    font-size: 'Narrow';
+    width: 70%;
+    margin: auto;
+}
+
+hr{
+    width: 82%;
+    margin: auto;
+    font-weight: bolder;
+    padding-bottom: 15px;
+}
+
+.descricao p{
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+.valores{
+    
+}
