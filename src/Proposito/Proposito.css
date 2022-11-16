@@ -1,6 +1,6 @@
 .descricao{
     text-align: center;
-    font-size: 'Narrow';
+    font-size: 'Arrial-Narrow';
     width: 70%;
     margin: auto;
 }
@@ -18,5 +18,8 @@ hr{
 }
 
 .valores{
-    
+    font-family: 'Arrial-Narrow';
+    font-size: 1.3em;
+    margin: 3% 15%;
+    text-align: center;
 }
