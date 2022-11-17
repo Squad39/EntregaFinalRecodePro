@@ -9,7 +9,7 @@ export default ()=>{
                 <input type="text" placeholder="email@email.com" className="form-control" style={{marginBottom:'10px'}}/>
                 <input type="text" placeholder="11/11/1111" className="form-control" style={{marginBottom:'10px'}}/>
                 <input type="text" placeholder="Fale um pouco sobre voce" className="form-control" style={{marginBottom:'10px'}}/>
-                <input type="text" value="Voluntariar-se" className="btn btn-secondary" style={{margin: '75px'}}/>
+                <input type="text" value="VOLUNTARIAR-SE" className="btn" style={{margin: '8% 35%',color: `white`, backgroundColor: `rgb(17, 55, 130)`}}/>
            </form>
             
         </>
