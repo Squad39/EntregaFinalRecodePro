@@ -12,6 +12,7 @@ import Footer from './Layout/Footer';
 import Header from './Layout/Header';
 
 export default()=>{
+
     return(
         /* Em vez de encapsular tudo dentro de uma div, os elementos serão encapsulados dentro de uma div Router e as referencias dos Links dentro da Routes. */
         /* E cada elemento dentro de seu proximo route, sua rota */
