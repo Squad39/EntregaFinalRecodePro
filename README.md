@@ -5,6 +5,7 @@ Versão final da solução Alpha Rural atrelada a ODS4, RecodePro = ( import Rea
   http://169.57.196.58/alpharural/build/index.html
 }
 
+## Após, favor, clicar em uma das aba de navegação.
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
