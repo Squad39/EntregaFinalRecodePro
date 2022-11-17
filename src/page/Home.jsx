@@ -6,8 +6,8 @@ export default ()=>{
     return(
         <>
             <Carrosel/>
-            <Cards/>
             <Descricao/>
+            <Cards/>
         </>
     )
 }

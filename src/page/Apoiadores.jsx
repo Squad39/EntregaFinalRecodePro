@@ -1,14 +1,17 @@
+
 export default ()=>{
     return(
         <>
-            <h1>Como sustentar o projeto</h1>
-            <p>Conteudo Apoiar</p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius reprehenderit voluptates incidunt fugiat laudantium dolorem assumenda veniam officiis quasi vitae, dolor et doloribus, nisi voluptate eos minima consectetur placeat error!
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius reprehenderit voluptates incidunt fugiat laudantium dolorem assumenda veniam officiis quasi vitae, dolor et doloribus, nisi voluptate eos minima consectetur placeat error!
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius reprehenderit voluptates incidunt fugiat laudantium dolorem assumenda veniam officiis quasi vitae, dolor et doloribus, nisi voluptate eos minima consectetur placeat error!
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, harum minus aliquid in sint, assumenda debitis hic dolorem sapiente velit rem, consectetur molestias. Adipisci minima incidunt consequatur, tenetur at deleniti.
-            </p>
+            <h1 style={{textAlign:'center', fontFamily:'Arial-Narrow', fontWeight:'700', padding:'20px'}}>Como tornar o projeto real</h1>
+           <form action="" style={{width:'600px', margin:'30px auto'}}>
+                <input type="text" placeholder="Nome" className="form-control" style={{marginBottom:'10px'}}/>
+                <input type="text" placeholder="Formação" className="form-control" style={{marginBottom:'10px'}}/>
+                <input type="text" placeholder="email@email.com" className="form-control" style={{marginBottom:'10px'}}/>
+                <input type="text" placeholder="11/11/1111" className="form-control" style={{marginBottom:'10px'}}/>
+                <input type="text" placeholder="Fale um pouco sobre voce" className="form-control" style={{marginBottom:'10px'}}/>
+                <input type="text" value="Voluntariar-se" className="btn btn-secondary" style={{margin: '75px'}}/>
+           </form>
+            
         </>
     )
 }
